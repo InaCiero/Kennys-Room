@@ -1,3 +1,2 @@
 # Kennys-Room
-uwu
-revisa los cambios, actualize el codigo a lo que sabemos, falta que el carrito sea funcional
+El proyecto ya entró en su fase final, esperemos terminar en un mes aprox~
