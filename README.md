@@ -1,3 +1,3 @@
 # Kennys-Room
-El proyecto ya entró en su fase final, esperemos terminar en un mes aprox~
+Implementamos ya Django y tenemos la base de las vistas.
 
